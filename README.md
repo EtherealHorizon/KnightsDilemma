@@ -6,3 +6,6 @@ The knight can only move in L shape ( 2 moves forward and one sideways; illustra
 ![image](https://github.com/EtherealHorizon/KnightsDilemma/assets/123862223/7645befa-28bd-438b-b6ee-6d7945ae65fc)
 
 We need to find the least number of legal moves it takes for the knight to reach from point A to B on a chessboard.
+
+![image](https://github.com/EtherealHorizon/KnightsDilemma/assets/123862223/f348372d-a1ba-4563-a61a-69c429ae11ef)
+
